@@ -39,7 +39,7 @@ React와 Three.js를 활용하여 컴포넌트 기반 구조와 라이프사이�
 ## 설치 및 실행
 
 ### GitHub Pages
-https://xcixcode.github.io/Interactive-Earth-Globe/
+https://xcixpkim.github.io/Interactive-Earth-Globe/
 
 ### 로컬에서 실행
 1. `index.html` 파일을 다운로드하거나 복사합니다.  
